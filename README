@@ -1,1 +1,2 @@
-This is a thread-safe container for Java objects
+This is a thread-safe container for Java objects.
+It is not aimed for performance increases, as object pooling is not recommended in Java for that, but when you need a strict control for objects origins.
